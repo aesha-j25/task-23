@@ -6,7 +6,11 @@
 #output age
 #output "Hello World!"
 name = input("Enter your name: ")
+
 user_age = input("Enter your age: ")
+fav_colour = input("Enter your favourite colour:")
 print(name)
-print(user_age)
+print(age)
+print("Your favourite colour is "+ fav_colour)
+
 print("Hello World!")
