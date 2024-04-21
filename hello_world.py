@@ -6,7 +6,7 @@
 #output age
 #output "Hello World!"
 name = input("Enter your name: ")
-age = input("Enter your age: ")
+user_age = input("Enter your age: ")
 print(name)
-print(age)
+print(user_age)
 print("Hello World!")
